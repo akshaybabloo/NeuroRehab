@@ -5,4 +5,4 @@ A VR game for Neurorehabilitation.
 
 # Screenshots
 
-![NeuroRehab]()
+![NeuroRehab](https://github.com/akshaybabloo/NeuroRehab/raw/master/Screenshots/NeuroRehab.JPG)
