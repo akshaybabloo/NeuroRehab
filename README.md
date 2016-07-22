@@ -1,6 +1,8 @@
 # NeuroRehab
 A VR game for Neurorehabilitation.
 
+A modified version of [UnrealEngine_4_Notes](https://github.com/akshaybabloo/UnrealEngine_4_Notes) tutorial.
+
 > Note: This application is under development.
 
 # Controls
