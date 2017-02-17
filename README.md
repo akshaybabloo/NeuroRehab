@@ -14,4 +14,6 @@ A modified version of [UnrealEngine_4_Notes](https://github.com/akshaybabloo/Unr
 
 # Screenshots
 
-![NeuroRehab](https://github.com/akshaybabloo/NeuroRehab/raw/master/Screenshots/NeuroRehab.JPG)
+## UnrealEngine
+
+![NeuroRehab](https://github.com/akshaybabloo/NeuroRehab/raw/master/UnrealEngine/Screenshots/NeuroRehab.JPG)
